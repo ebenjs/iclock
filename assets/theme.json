@@ -1,0 +1,13 @@
+{
+  "backgroundColor": "#242427",
+  "borderRadius": 20,
+  "padding": {
+    "horizontal": 18,
+    "vertical": 10
+  },
+  "textStyle": {
+    "fontSize": 100,
+    "fontWeight": "bold",
+    "color": "#FFFFFF"
+  }
+}
